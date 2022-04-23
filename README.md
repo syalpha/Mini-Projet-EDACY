@@ -12,3 +12,15 @@ npm install
 # Run Server
 nodemon
 node app.js
+
+
+
+
+# Technologie utilisé Front
+Angular 13
+
+# Install Dependencies
+npm install
+
+# Run Server
+ng serve
