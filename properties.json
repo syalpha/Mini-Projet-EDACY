@@ -1,0 +1,5 @@
+{
+    "rss": "https://www.lemonde.fr/rss/en_continu.xml",
+    "db": "mongodb://localhost:27017/rss",
+    "collection": "lol"
+}

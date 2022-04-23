@@ -1,0 +1,27 @@
+{
+  "name": "mini-projet-edacy",
+  "version": "1.0.0",
+  "description": "Mini projet : développer un lecteur de flux RSS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syalpha/Mini-Projet-EDACY.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syalpha/Mini-Projet-EDACY/issues"
+  },
+  "homepage": "https://github.com/syalpha/Mini-Projet-EDACY#readme",
+  "dependencies": {
+    "feed": "^4.2.2",
+    "feed-parser": "^1.0.19",
+    "mongoose": "^6.3.1",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2",
+    "rss-parser": "^3.12.0"
+  }
+}
